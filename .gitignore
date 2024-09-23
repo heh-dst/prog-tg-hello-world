@@ -1,0 +1,7 @@
+*
+!*.c
+!README.md
+!.editorconfig
+!.gitignore
+!.devcontainer/
+
