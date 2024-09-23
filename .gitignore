@@ -4,4 +4,4 @@
 !.editorconfig
 !.gitignore
 !.devcontainer/
-
+!.devcontainer/*
